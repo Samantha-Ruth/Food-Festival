@@ -21,7 +21,7 @@ This project helped me understand what PWA's are and how they maintain functiona
 
 ## Installation
 
-When the user natigates to the deployed project, they should be able to obtain all functionality and view it on their mobile device. 
+When the user navigates to the deployed project, they should be able to obtain all functionality and view it on their mobile device. 
 
 ## Usage
 
